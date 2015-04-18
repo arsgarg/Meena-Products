@@ -97,8 +97,8 @@ ul.nav li.active a{
 	margin: 1.5% 35% 2% 35%;
 }
 .banner-top p{
-	color:#fff;
-	font-weight:100;
+	color:#333;
+	font-weight:normal;
 	font-size:23px;
 	margin:0 10%;
 }
